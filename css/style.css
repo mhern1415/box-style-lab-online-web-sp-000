@@ -14,7 +14,7 @@ body, html {
   min-width: 400px;
   padding: 10px;
   margin: 10px auto;
-  background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+  
 }
 
 h4 {
@@ -22,6 +22,7 @@ h4 {
   display: inline-block;
   padding: 5px;
   margin: 20px 0 0 0;
+  background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
 }
 
 .amiable {
