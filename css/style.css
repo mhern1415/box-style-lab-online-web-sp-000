@@ -55,5 +55,9 @@ h4 {
   width: 303%;
 }
 
+.img {
+  border: solid grey 1px;
+  box-sizing: border-box;
+}
 
 
